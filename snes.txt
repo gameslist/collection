@@ -266,7 +266,7 @@ Rock 'n' Roll Racing [c]
 Run Saber [c]
 Sailor Moon [c]
 Samurai Shodown [cb]
-*Saturday Night Slammasters [c]
+Saturday Night Slammasters [c]
 SeaQuest DSV [c]
 Secret of Evermore [c]
 Secret of Mana
@@ -501,9 +501,11 @@ Mario no Super Picross
 Parodius Da! - Shinwa kara Owarai e
 Power Instinct
 Sonic Blast Man [cb]
-Super Mario Kart [c]
+*Super Mario All-Stars [c]
+2xSuper Mario Kart [c]/[c]
+*Super Mario World [c]
 Super Tetris 2 + Bombliss
-14 Games
+16 Games
 
 
 PIRATE

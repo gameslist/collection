@@ -43,8 +43,8 @@ Mario & Luigi Dream Team Bros
 Mario & Luigi Paper Jam Bros
 Mario & Luigi Superstar Saga + Bowser's Minions
 Mario Kart 7
-*Mario Party Island Tour
-*Mario Party Star Rush
+Mario Party Island Tour
+Mario Party Star Rush
 Mario Tennis Open
 Monster Hunter 3 Ultimate
 Monster Hunter Stories
@@ -163,11 +163,12 @@ Colour Cross
 Contact
 Cooking Guide Can't decide what to eat?
 Custom Robo Arena
+*Digimon Story: Sunburst JPN [c]
 Disgaea DS
 Dr Kawashima's Brain Training How Old Is Your Brain?
 Dragonball Origins
 Dragon Quest IX Sentinels of the Starry Skies
-Dragon Quest Monsters: Joker
+Dragon Quest Monsters: Joker EUR [cib]/JPN [c]
 Dragon Quest Monsters: Joker 2
 Dragon Quest VI Realms of Reverie
 Dragon Quest: The Chapters of the Chosen
@@ -184,6 +185,7 @@ Freshly-Picked Tingle's Rosy Rupeeland
 Game & Watch Collection
 Geometry Wars Galaxies
 Ghost Trick Phantom Detective
+*Gintama Gin-Oh Quest: Gin-san ga Tenshoku shitari Sekai wo Sukuttari JPN [c]
 Glory Days 2
 Go! Go! Cosmo Cops!
 Golden Sun: Dark Dawn
@@ -205,6 +207,8 @@ Ivy the Kiwi?
 Jam Sessions
 Jam with the Band
 Jump Ultimate Stars JPN
+*Kidou Senshi Gundam 00 JPN [c]
+*Kiku! Kaku! Kotoba o Fuyasu! Hajimete no Eigo Training JPN [c]
 Kingdom Hearts 358/2 Days
 Kingdom Hearts Re:coded
 Kirby Mass Attack USA
@@ -220,6 +224,7 @@ Magical Starsign
 Mario & Luigi Bowser's Inside Story
 Mario & Luigi: Partners in Time
 Mario Kart DS
+*Mario vs. Donkey Kong 2 March of the Minis USA
 Mario vs. Donkey Kong Mini-Land Mayhem!
 Mechanic Master
 Megaman Battle Network 5 Double Team DS USA
@@ -229,6 +234,7 @@ Meteos Disney Magic
 Metroid Prime Hunters First Hunt USA
 Micro Machines V4
 Miles Edgeworth Ace Attorney Investigations
+*Minna de Jibun no Setsumeisho: B-Kata, A-Kata, AB-Kata, O-Kata JPN [c]
 Moon
 More Brain Training from Dr Kawashima How Old Is Your Brain?
 Moto Racer DS
@@ -236,7 +242,7 @@ Mr. Driller Drill Spirits [cb]
 Mystery Case Files MillionHeir
 Mystery Detective
 New International Track & Field
-New Super Mario Bros.
+New Super Mario Bros. EUR [cib]/JPN [c]
 Nine Hours, Nine Persons, Nine Doors
 Ninja Gaiden Dragon Sword
 Nintendo DS Browser for Nintendo DS
@@ -245,6 +251,7 @@ Nintendo Touch Golf Birdie Challenge
 Nintendogs Dalmatian & Friends
 Nintendogs Labrador & Friends
 Okamiden
+*One Piece: Gigant Battle 2 - Shinsekai JPN [c]
 Phoenix Wright Ace Attorney USA
 Phoenix Wright Ace Attorney Justice For All USA
 Phoenix Wright Ace Attorney Trials and Tribulations USA
@@ -300,12 +307,13 @@ Touch Detective 2 1/2 USA
 Trauma Center: Under the Knife
 Valkyrie Profile: Covenant of the Plume
 Wario Master Of Disguise
-Wario Ware Touched! USA
+Wario Ware Touched! USA [cib]/JPN [c]
 WarioWare Do It Yourself
 Yoshi Touch & Go uSA
+*Yu-Gi-Oh! Duel Monsters: World Championship 2008 JPN [c]
 Zoo Keeper
 Zubo
-170 Games
+178 Games
 
 PSP GAMES
 Ace Combat X Skies of Deception
@@ -471,13 +479,14 @@ PGA Tour Golf [c]
 Primal Rage [c]
 Putt & Putter
 RBI Baseball 94 [c]
+*Sonic Drift [c]
 Sonic the Hedgehog 2 [c]
 Space Harrier [c]
 Streets of Rage [c]
 Taz-Mania
 The Smurfs
 Wonder Boy
-19 Games
+20 Games
 
 GB(C) GAMES
 Alone in the Dark The New Nightmare

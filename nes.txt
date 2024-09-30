@@ -29,7 +29,7 @@ River City Ransom [c]
 Rolling Thunder [c]
 Rush'n Attack [c]
 Snake Rattle n Roll [c]
-*Solar Jetman [c]
+Solar Jetman [c]
 StarTropics [c]
 Super Mario Bros./Duck Hunt/World Class Track Meet [c]
 Super Mario Bros. 2 [c]
@@ -48,6 +48,7 @@ Zoda's Revenge - Star Tropics II [c]
 
 JPN
 Akumajo Densetsu [c]
+*Dr. Mario [c]
 Dragon Quest [c]
 Dragon Quest II [c]
 Dragon Quest III [c]
@@ -59,5 +60,7 @@ Lunar Ball [c]
 Mighty Bomb Jack [c]
 Moero! TwinBee: Cinnamon-hakase wo Sukue! [c]
 Rolling Thunder [c]
+*Yoshi no Cookie [cib]/[c]
+*Yoshi no Tamago [c]
 Yume Kojo: Doki Doki Panic FDS
-13 Games
+16 Games
