@@ -1,4 +1,4 @@
-* = New stuff
+ï»¿* = New stuff
 
 3DS GAMES
 Ace Combat Assault Horizon Legacy
@@ -79,7 +79,7 @@ Story of Seasons Trio of Towns
 Sudoku + 7 Other Complex Puzzles By Nikoli
 Super Mario 3D Land
 Super Mario Maker for Nintendo 3DS
-Super Pokémon Rumble
+Super PokÃ©mon Rumble
 Super Smash Bros for Nintendo 3DS
 Super Street Fighter IV 3D Edition
 Tales of the Abyss
@@ -153,7 +153,7 @@ Bangai-O Spirits
 Beat City
 Blue Dragon Plus USA+
 Bomberman
-Broken Sword Shadow of the Templars The Director´s Cut
+Broken Sword Shadow of the Templars The DirectorÂ´s Cut
 C.O.P. The Recruit
 Castlevania Portrait of Ruin
 Chibi-Robo! Park Patrol USA
@@ -215,7 +215,7 @@ Kirby Mass Attack USA
 Kirby Super Star Ultra
 Lara Croft Tomb Raider Legend
 Last Window The Secret of Cape West
-Learn with Pokémon Typing Adventure
+Learn with PokÃ©mon Typing Adventure
 Lock's Quest
 Looney Tunes Duck Amuck
 Lux-Pain
@@ -258,15 +258,15 @@ Phoenix Wright Ace Attorney Trials and Tribulations USA
 Picross 3D
 Picross DS
 Point Blank DS
-Pokémon Black Version
-Pokémon Conquest
-Pokémon Diamond Version
-Pokémon Mystery Dungeon Explorers of Darkness
-Pokémon Mystery Dungeon: Blue Rescue Team
-Pokémon Platinum Version
-Pokémon SoulSilver Version
-Pokémon White Version
-Pokémon White Version 2
+PokÃ©mon Black Version
+PokÃ©mon Conquest
+PokÃ©mon Diamond Version
+PokÃ©mon Mystery Dungeon Explorers of Darkness
+PokÃ©mon Mystery Dungeon: Blue Rescue Team
+PokÃ©mon Platinum Version
+PokÃ©mon SoulSilver Version
+PokÃ©mon White Version
+PokÃ©mon White Version 2
 Polarium
 Professor Layton and Pandora's Box
 Professor Layton and the Last Specter USA
@@ -439,7 +439,7 @@ Megaman Battle Network 5 Team:Protoman
 Monopoly [c]
 Motocross Challenge
 Phantasy Star Collection [c]
-Pokémon Sapphire
+PokÃ©mon Sapphire
 Qwak
 Rayman Hoodlum's Revenge USA [c]
 Shaun Palmer's Pro Snowboarder [c]
@@ -529,15 +529,15 @@ Mortal Kombat II [c]
 Motocross Maniacs [ci]
 One Piece: Maboroshi no Grand Line Boukenki! JPN [c]
 One Piece: Yume no Luffy Kaizokudan Tanjou JPN [c]
-2xPokémon Blue [c]/JPN
-Pokémon Crystal [c]
-Pokémon Gold [c]
-Pokémon Green JPN [c]
-2xPokémon Pinball [c]/[c]
-Pokémon Red [c]
-Pokémon Silver [c]
-Pokémon Trading Card Game [c]
-Pokémon Yellow [c]
+2xPokÃ©mon Blue [c]/JPN
+PokÃ©mon Crystal [c]
+PokÃ©mon Gold [c]
+PokÃ©mon Green JPN [c]
+2xPokÃ©mon Pinball [c]/[c]
+PokÃ©mon Red [c]
+PokÃ©mon Silver [c]
+PokÃ©mon Trading Card Game [c]
+PokÃ©mon Yellow [c]
 Revenge of the Gator [c]
 Rumble Race Top Gear Rally
 Scooby-Doo! Classic Creep Capers [c]
@@ -581,4 +581,3 @@ Galactic Pinball
 Mario Clash [c]
 Teleroboxer
 3 Games
-

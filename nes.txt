@@ -1,4 +1,4 @@
-* = New Stuff
+﻿* = New Stuff
 
 PAL
 Chip 'n Dale Rescue Rangers [c]
