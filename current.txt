@@ -171,6 +171,7 @@ Call of Duty Black Ops IIII
 Call of Duty Infinite Warfare
 Call of Duty Modern Warfare
 Call of Duty Modern Warfare II
+*Call of Duty Modern Warfare III
 Call of Duty Vanguard
 Call of Duty WWII
 Code Vein
@@ -360,13 +361,13 @@ Yakuza Like A Dragon
 Yesterday Origins
 Yooka-Laylee
 Zoo Tycoon
-218 Games
+219 Games
 
 
 SWITCH GAMES
 Apollo Justice: Ace Attorney Trilogy JPN
-*ARMS JPN
-*Bayonetta 3
+ARMS JPN
+Bayonetta 3
 Blacksad Under the Skin
 Daemon X Machina
 Dark Souls: Remastered
@@ -382,7 +383,7 @@ Hyrule Warriors: Age of Calamity
 L.A. Noire
 Lego City Undercover
 Lego Harry Potter Collection
-*Live A Live
+Live A Live
 Mario + Rabbids Kingdom Battle
 Mario + Rabbids Sparks of Hope
 Mario Kart 8 Deluxe
