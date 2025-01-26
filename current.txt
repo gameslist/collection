@@ -98,6 +98,7 @@ Street Fighter V
 Sudden Strike 4
 Super Stardust Ultra VR
 Tales of Berseria
+*Tales of Symphonia Remastered Chosen Edition
 Tales of Zestiria
 Tearaway Unfolded
 The 25th Ward: The Silver Case
@@ -138,7 +139,7 @@ Yakuza Kiwami 2
 Yakuza Remastered Collection
 Ys Memories of Celceta
 Ys VIII Lacrimosa of Dana
-137 Games
+138 Games
 
 
 XBOX ONE GAMES
@@ -148,6 +149,7 @@ Agatha Cristie Hercule Poirot The First cases
 Agatha Cristie The ABC Murders
 Agents of Mayhem
 Assassin's Creed IV Black Flag
+*Assassin's Creed Mirage
 Assassin's Creed Odyssey
 Assassin's Creed Origins
 Assassin's Creed Syndicate
@@ -171,7 +173,7 @@ Call of Duty Black Ops IIII
 Call of Duty Infinite Warfare
 Call of Duty Modern Warfare
 Call of Duty Modern Warfare II
-*Call of Duty Modern Warfare III
+Call of Duty Modern Warfare III
 Call of Duty Vanguard
 Call of Duty WWII
 Code Vein
@@ -186,6 +188,7 @@ Darksiders Genesis
 Darksiders II Deathinitive Edition
 Darksiders III
 Darksiders Warmastered Edition
+*Dead Island 2 Day One Edition
 Dead Rising 3 Apocalypse Edition
 Dead Rising 4
 Destiny The Taken King
@@ -233,6 +236,7 @@ Hellblade: Senua's Sacrifice
 Hitman The Complete First Season
 Hitman 2
 Hitman III
+*Hogwarts Legacy
 Homefront The Revolution
 Immortals Fenyx Rising
 Injustice 2
@@ -249,9 +253,11 @@ Lego Jurassic World
 Lego Marvel Avengers
 Lego Marvel Super Heroes
 Lego Marvel Super Heroes 2
+*Lego Star Wars The Skywalker Saga
 Lego The Hobbit
 Lego The Incredibles
 Life is Strange 2
+*Like A Dragon Infinite Wealth
 Like A Dragon Ishin!
 Lost Judgment
 Mad Max
@@ -315,6 +321,7 @@ Spyro Reignited Trilogy
 Star Wars Battlefront
 Star Wars Battlefront II
 Star Wars Jedi Fallen Order
+*Star Wars Jedi Survivor
 Star Wars Squadrons
 Stardew Valley Collector's Edition
 State of Decay Year One Survival Edition
@@ -361,7 +368,7 @@ Yakuza Like A Dragon
 Yesterday Origins
 Yooka-Laylee
 Zoo Tycoon
-219 Games
+225 Games
 
 
 SWITCH GAMES
@@ -373,6 +380,7 @@ Daemon X Machina
 Dark Souls: Remastered
 Deadly Premonition 2
 Deadly Premonition Origins
+*Detective Pikachu Returns
 Disney Illusion Island
 Farming Simulator 20
 Fifa 19
@@ -399,9 +407,10 @@ Paper Mario: The Thousand-Year Door
 Phoenix Wright: Ace Attorney Trilogy JPN
 Rune Factory 3 Special
 Sonic Mania Plus
+*Star Ocean The Second Story R
 Starlink Battle for Atlas
 Street Fighter 30th Anniversary Collection
-*Super Mario Bros. Wonder
+Super Mario Bros. Wonder
 Super Mario Odyssey
 Super Mario RPG
 Sushi Striker: The Way of Sushido
@@ -409,6 +418,7 @@ Syberia Trilogy
 The Elder Scrolls V Skyrim Special Edition
 The Great Ace Attorney Chronicles JPN
 The Legend of Zelda: Breath of the Wild
+*The Legend of Zelda: Tales of the Kingdom
 The Witcher 3 Wild Hunt Complete Edition
 Truberbrook
 Two Point Campus Enrolment Edition
@@ -418,7 +428,7 @@ Xenoblade Chronicles 2
 Xenoblade Chronicles 3
 Yesterday Origins
 Yoshi's Crafted World
-53 Games
+56 Games
 
 
 WII U GAMES

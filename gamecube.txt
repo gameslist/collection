@@ -18,7 +18,8 @@ Disney's Magical Mirror Starring Mickey Mouse
 Disney's Winnie The Pooh's Rumbly Tumbly Adventure
 Donkey Kong Jungle Beat PAL/NTSC|J
 Donkey Konga PAL/NTSC|J
-Donkey Konga 2
+Donkey Konga 2 PAL/NTSC|J
+*Donkey Konga 3 NTSC|J
 Doshin the Giant
 EA SPORTS Fight Night Round 2
 Eternal Darkness Sanity's Requirem
@@ -114,4 +115,4 @@ Virtua Striker  3 ver.2002
 Wave Race: Blue Storm
 Warioware, Inc.: Mega Party Game$!
 Warioworld
-113 Games
+114 Games
