@@ -98,7 +98,7 @@ Street Fighter V
 Sudden Strike 4
 Super Stardust Ultra VR
 Tales of Berseria
-*Tales of Symphonia Remastered Chosen Edition
+Tales of Symphonia Remastered Chosen Edition
 Tales of Zestiria
 Tearaway Unfolded
 The 25th Ward: The Silver Case
@@ -149,7 +149,7 @@ Agatha Cristie Hercule Poirot The First cases
 Agatha Cristie The ABC Murders
 Agents of Mayhem
 Assassin's Creed IV Black Flag
-*Assassin's Creed Mirage
+Assassin's Creed Mirage
 Assassin's Creed Odyssey
 Assassin's Creed Origins
 Assassin's Creed Syndicate
@@ -188,7 +188,7 @@ Darksiders Genesis
 Darksiders II Deathinitive Edition
 Darksiders III
 Darksiders Warmastered Edition
-*Dead Island 2 Day One Edition
+Dead Island 2 Day One Edition
 Dead Rising 3 Apocalypse Edition
 Dead Rising 4
 Destiny The Taken King
@@ -236,7 +236,7 @@ Hellblade: Senua's Sacrifice
 Hitman The Complete First Season
 Hitman 2
 Hitman III
-*Hogwarts Legacy
+Hogwarts Legacy
 Homefront The Revolution
 Immortals Fenyx Rising
 Injustice 2
@@ -253,11 +253,11 @@ Lego Jurassic World
 Lego Marvel Avengers
 Lego Marvel Super Heroes
 Lego Marvel Super Heroes 2
-*Lego Star Wars The Skywalker Saga
+Lego Star Wars The Skywalker Saga
 Lego The Hobbit
 Lego The Incredibles
 Life is Strange 2
-*2xLike A Dragon Infinite Wealth
+2xLike A Dragon Infinite Wealth
 Like A Dragon Ishin!
 Lost Judgment
 Mad Max
@@ -285,6 +285,7 @@ NBA2K20
 NBA Live 18
 Need for Speed
 Need for Speed Payback
+*New Tales from the Borderlands Deluxe Edition
 NFS Heat
 NHL 15
 NHL 19
@@ -315,17 +316,19 @@ Sherlock Holmes The Devil's Daughter
 Skylanders Trap Team
 Sleeping Dogs Definitive Edition
 Sniper Elite 4
+*Soul Hackers 2
 Soul Calibur VI
 South Park The Fractured But Whole
 Spyro Reignited Trilogy
 Star Wars Battlefront
 Star Wars Battlefront II
 Star Wars Jedi Fallen Order
-*Star Wars Jedi Survivor
+Star Wars Jedi Survivor
 Star Wars Squadrons
 Stardew Valley Collector's Edition
 State of Decay Year One Survival Edition
 State of Decay 2
+*Story of Seasons: Friends of Mineral Town
 Sunset Overdrive
 Sword Art Online: Fatal Bullet
 Syberia 3
@@ -341,6 +344,7 @@ The Walking Dead: A New Frontier
 The Walking Dead Collection
 The Walking Dead The Final Season
 This is the Police
+*Tiny Tina's Wonderland
 Titan Quest
 Titanfall
 Titanfall 2
@@ -368,7 +372,7 @@ Yakuza Like A Dragon
 Yesterday Origins
 Yooka-Laylee
 Zoo Tycoon
-225 Games
+229 Games
 
 
 SWITCH GAMES
@@ -380,7 +384,7 @@ Daemon X Machina
 Dark Souls: Remastered
 Deadly Premonition 2
 Deadly Premonition Origins
-*Detective Pikachu Returns
+Detective Pikachu Returns
 Disney Illusion Island
 Farming Simulator 20
 Fifa 19
@@ -407,7 +411,7 @@ Paper Mario: The Thousand-Year Door
 Phoenix Wright: Ace Attorney Trilogy JPN
 Rune Factory 3 Special
 Sonic Mania Plus
-*Star Ocean The Second Story R
+Star Ocean The Second Story R
 Starlink Battle for Atlas
 Street Fighter 30th Anniversary Collection
 Super Mario Bros. Wonder
@@ -418,7 +422,7 @@ Syberia Trilogy
 The Elder Scrolls V Skyrim Special Edition
 The Great Ace Attorney Chronicles JPN
 The Legend of Zelda: Breath of the Wild
-*The Legend of Zelda: Tales of the Kingdom
+The Legend of Zelda: Tales of the Kingdom
 The Witcher 3 Wild Hunt Complete Edition
 Truberbrook
 Two Point Campus Enrolment Edition
