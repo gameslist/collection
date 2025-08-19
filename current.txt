@@ -20,6 +20,7 @@ Carmageddon Max Damage
 Child of Light Deluxe Edition
 Crash Bandicoot 4
 Days Gone
+*Dead Cells Return to Castlevania Edition
 Dead Synchronicity: Tomorrow Comes Today
 Deadpool
 Death Stranding
@@ -103,7 +104,7 @@ Tales of Zestiria
 Tearaway Unfolded
 The 25th Ward: The Silver Case
 The Book of Unwritten Tales 2
-*The Callisto Protocol
+The Callisto Protocol
 The Evil Within
 The Last Guardian
 The Last of Us Part II
@@ -113,11 +114,13 @@ The Walking Dead Season Two
 The Walking Dead The Complete First Season Plus 400 Days
 The Witcher 3 Wild Hunt
 The Wolf Among Us
+*Tintin Reporter - Cigars of the Pharaoh Limited Edition
 Tokyo Twilight Ghost Hunters: Daybreak Special Gigs
 Touhou Genso Wanderer
 Toukiden 2
 Transport GianT
 UFC
+*UFO Robot Grendizer - The Feast of the Wolves
 Uncharted 4: A Thief's End
 Uncharted: The Lost Legacy
 Uncharted: The Nathan Drake Collection
@@ -140,13 +143,15 @@ Yakuza Kiwami 2
 Yakuza Remastered Collection
 Ys Memories of Celceta
 Ys VIII Lacrimosa of Dana
-139 Games
+142 Games
 
 
 XBOX ONE GAMES
 11-11: Memories Retold
 Ace Combat 7
-Agatha Cristie Hercule Poirot The First cases
+Agatha Cristie Hercule Poirot The First Cases
+*Agatha Cristie Hercule Poirot The London Case
+*Agatha Cristie Murder on the Orient Express Deluxe Edition
 Agatha Cristie The ABC Murders
 Agents of Mayhem
 Assassin's Creed IV Black Flag
@@ -230,6 +235,7 @@ Gears of War 4
 Gears of War 5
 GreedFall Gold Edition
 Grid Legends
+*Hades
 2xHalo 5
 Halo Infinity
 Halo Wars 2
@@ -314,6 +320,7 @@ Scribblenauts Showdown
 Sea of Thieves
 Shadows Awakening
 Sherlock Holmes The Devil's Daughter
+*Shin Megami Tensei V: Vengeance
 Skylanders Trap Team
 Sleeping Dogs Definitive Edition
 Sniper Elite 4
@@ -333,6 +340,7 @@ Story of Seasons: Friends of Mineral Town
 Sunset Overdrive
 Sword Art Online: Fatal Bullet
 Syberia 3
+*System Shock
 Tales from the Borderlands
 Tales of Vesperia: Definitive Edition
 Tekken 7
@@ -373,13 +381,15 @@ Yakuza Like A Dragon
 Yesterday Origins
 Yooka-Laylee
 Zoo Tycoon
-229 Games
+234 Games
 
 
 SWITCH GAMES
+*Advance Wars 1+2: Re-Boot Camp
 Apollo Justice: Ace Attorney Trilogy JPN
 ARMS JPN
 Bayonetta 3
+*Bayonetta Origins: Cereza and the Lost Demon
 Blacksad Under the Skin
 Daemon X Machina
 Dark Souls: Remastered
@@ -397,10 +407,12 @@ L.A. Noire
 Lego City Undercover
 Lego Harry Potter Collection
 Live A Live
+*Luigi's Mansion 3
 Mario + Rabbids Kingdom Battle
 Mario + Rabbids Sparks of Hope
 Mario Kart 8 Deluxe
 Mario Striker: Battle League Football
+*Master Detective Archives: Rain Code
 Metroid Dread
 Monster Energy Supercross 2 The Official Videogame
 Monster Hunter Rise
@@ -415,6 +427,7 @@ Sonic Mania Plus
 Star Ocean The Second Story R
 Starlink Battle for Atlas
 Street Fighter 30th Anniversary Collection
+*Super Mario 3D World + Bowser's Fury
 Super Mario Bros. Wonder
 Super Mario Odyssey
 Super Mario RPG
@@ -433,7 +446,7 @@ Xenoblade Chronicles 2
 Xenoblade Chronicles 3
 Yesterday Origins
 Yoshi's Crafted World
-56 Games
+61 Games
 
 
 WII U GAMES
