@@ -173,6 +173,7 @@ Borderlands 3
 Borderlands The Handsome Collection
 Broken Sword 5 The Serpent's Curse
 Call of Duty Advanced Warfare
+*Call of Duty Black Ops 6
 Call of Duty Black Ops Cold War
 Call of Duty Black Ops III
 Call of Duty Black Ops IIII
@@ -314,6 +315,7 @@ Resident Evil Revelations 2
 Resident Evil Village
 Rise of the Tomb Raider
 Rocket League Collector's Edition
+*RollerCoaster Tycoon Adventures Deluxe
 Ryse Son of Rome
 Saints Row
 Scribblenauts Showdown
@@ -381,25 +383,25 @@ Yakuza Like A Dragon
 Yesterday Origins
 Yooka-Laylee
 Zoo Tycoon
-234 Games
+236 Games
 
 
 SWITCH GAMES
-*Ace Attorney Investigations Collection JPN
+Ace Attorney Investigations Collection JPN
 Advance Wars 1+2: Re-Boot Camp
 Apollo Justice: Ace Attorney Trilogy JPN
 ARMS JPN
 Bayonetta 3
 Bayonetta Origins: Cereza and the Lost Demon
 Blacksad Under the Skin
-*Captain Toad: Treasure Tracker JPN
+Captain Toad: Treasure Tracker JPN
 Daemon X Machina
 Dark Souls: Remastered
 Deadly Premonition 2
 Deadly Premonition Origins
 Detective Pikachu Returns
 Disney Illusion Island
-*Doraemon Story of Seasons JPN
+Doraemon Story of Seasons JPN
 Farming Simulator 20
 Fifa 19
 Fire Emblem Warriors
@@ -414,7 +416,7 @@ Live A Live
 Luigi's Mansion 3
 Mario + Rabbids Kingdom Battle
 Mario + Rabbids Sparks of Hope
-*Mario & Luigi: Brothership JPN
+Mario & Luigi: Brothership JPN
 Mario Kart 8 Deluxe
 Mario Striker: Battle League Football
 Master Detective Archives: Rain Code
@@ -441,7 +443,7 @@ Syberia Trilogy
 The Elder Scrolls V Skyrim Special Edition
 The Great Ace Attorney Chronicles JPN
 The Legend of Zelda: Breath of the Wild
-*The Legend of Zelda: Link's Awakening JPN
+The Legend of Zelda: Link's Awakening JPN
 The Legend of Zelda: Tales of the Kingdom
 The Witcher 3 Wild Hunt Complete Edition
 Truberbrook
@@ -457,6 +459,6 @@ Yoshi's Crafted World
 
 SWITCH 2 GAMES
 Mario Kart World
-*No Sleep For Kaname Date - From AI: The Somnium Files JPN
-*Yakuza 0 Director's Cut JPN
+No Sleep For Kaname Date - From AI: The Somnium Files JPN
+Yakuza 0 Director's Cut JPN
 3 Games
