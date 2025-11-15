@@ -173,7 +173,7 @@ Borderlands 3
 Borderlands The Handsome Collection
 Broken Sword 5 The Serpent's Curse
 Call of Duty Advanced Warfare
-*Call of Duty Black Ops 6
+Call of Duty Black Ops 6
 Call of Duty Black Ops Cold War
 Call of Duty Black Ops III
 Call of Duty Black Ops IIII
@@ -315,7 +315,7 @@ Resident Evil Revelations 2
 Resident Evil Village
 Rise of the Tomb Raider
 Rocket League Collector's Edition
-*RollerCoaster Tycoon Adventures Deluxe
+RollerCoaster Tycoon Adventures Deluxe
 Ryse Son of Rome
 Saints Row
 Scribblenauts Showdown
@@ -458,7 +458,8 @@ Yoshi's Crafted World
 
 
 SWITCH 2 GAMES
+*Donkey Kong Bananza
 Mario Kart World
 No Sleep For Kaname Date - From AI: The Somnium Files JPN
 Yakuza 0 Director's Cut JPN
-3 Games
+4 Games
