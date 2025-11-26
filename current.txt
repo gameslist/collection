@@ -412,7 +412,7 @@ L.A. Noire
 Lego City Undercover
 Lego Harry Potter Collection
 Lego Horizon Adventures
-Live A Live
+3xLive A Live
 Luigi's Mansion 3
 Mario + Rabbids Kingdom Battle
 Mario + Rabbids Sparks of Hope
@@ -428,8 +428,10 @@ No More Heroes 3
 Octopath Traveler
 Paper Mario: The Origami King
 Paper Mario: The Thousand-Year Door
+*Persona 5 Tactica
 Phoenix Wright: Ace Attorney Trilogy JPN
 Rune Factory 3 Special
+*Shin Megami Tensei V
 Sonic Mania Plus
 Star Ocean The Second Story R
 Starlink Battle for Atlas
@@ -440,6 +442,7 @@ Super Mario Odyssey
 Super Mario RPG
 Sushi Striker: The Way of Sushido
 Syberia Trilogy
+*Tales of Vesperia Definitive Edition
 The Elder Scrolls V Skyrim Special Edition
 The Great Ace Attorney Chronicles JPN
 The Legend of Zelda: Breath of the Wild
@@ -454,11 +457,11 @@ Xenoblade Chronicles 2
 Xenoblade Chronicles 3
 Yesterday Origins
 Yoshi's Crafted World
-67 Games
+70 Games
 
 
 SWITCH 2 GAMES
-*Donkey Kong Bananza
+Donkey Kong Bananza
 Mario Kart World
 No Sleep For Kaname Date - From AI: The Somnium Files JPN
 Yakuza 0 Director's Cut JPN
