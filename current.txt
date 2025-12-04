@@ -299,6 +299,7 @@ NHL 15
 NHL 19
 NHL 21
 NHL 23
+*NieR: Replicant
 Payday 2 Crimewave Edition
 Project Cars
 Project Highrise Architect's Edition
@@ -373,6 +374,7 @@ Transformers Devastation
 Trials Fusion
 Tropico 5 Complete Collection
 Tropico 6
+*Two Point Hospital
 UFC 2
 Wasteland 2
 Watch Dogs 2
@@ -383,7 +385,7 @@ Yakuza Like A Dragon
 Yesterday Origins
 Yooka-Laylee
 Zoo Tycoon
-236 Games
+238 Games
 
 
 SWITCH GAMES
@@ -428,10 +430,11 @@ No More Heroes 3
 Octopath Traveler
 Paper Mario: The Origami King
 Paper Mario: The Thousand-Year Door
-*Persona 5 Tactica
+Persona 5 Tactica
 Phoenix Wright: Ace Attorney Trilogy JPN
 Rune Factory 3 Special
-*Shin Megami Tensei V
+Shin Megami Tensei V
+*Shin Megami Tensei V Vengeance
 Sonic Mania Plus
 Star Ocean The Second Story R
 Starlink Battle for Atlas
@@ -442,7 +445,7 @@ Super Mario Odyssey
 Super Mario RPG
 Sushi Striker: The Way of Sushido
 Syberia Trilogy
-*Tales of Vesperia Definitive Edition
+Tales of Vesperia Definitive Edition
 The Elder Scrolls V Skyrim Special Edition
 The Great Ace Attorney Chronicles JPN
 The Legend of Zelda: Breath of the Wild
@@ -457,7 +460,7 @@ Xenoblade Chronicles 2
 Xenoblade Chronicles 3
 Yesterday Origins
 Yoshi's Crafted World
-70 Games
+71 Games
 
 
 SWITCH 2 GAMES
