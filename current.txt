@@ -98,6 +98,7 @@ Steamworld Collection
 Street Fighter V
 Sudden Strike 4
 Super Stardust Ultra VR
+*Syberia The World Before
 Tales of Berseria
 Tales of Symphonia Remastered Chosen Edition
 Tales of Zestiria
@@ -143,7 +144,7 @@ Yakuza Kiwami 2
 Yakuza Remastered Collection
 Ys Memories of Celceta
 Ys VIII Lacrimosa of Dana
-142 Games
+143 Games
 
 
 XBOX ONE GAMES
@@ -299,7 +300,7 @@ NHL 15
 NHL 19
 NHL 21
 NHL 23
-*NieR: Replicant
+NieR: Replicant
 Payday 2 Crimewave Edition
 Project Cars
 Project Highrise Architect's Edition
@@ -374,7 +375,7 @@ Transformers Devastation
 Trials Fusion
 Tropico 5 Complete Collection
 Tropico 6
-*Two Point Hospital
+Two Point Hospital
 UFC 2
 Wasteland 2
 Watch Dogs 2
@@ -414,7 +415,7 @@ L.A. Noire
 Lego City Undercover
 Lego Harry Potter Collection
 Lego Horizon Adventures
-3xLive A Live
+Live A Live
 Luigi's Mansion 3
 Mario + Rabbids Kingdom Battle
 Mario + Rabbids Sparks of Hope
@@ -432,9 +433,11 @@ Paper Mario: The Origami King
 Paper Mario: The Thousand-Year Door
 Persona 5 Tactica
 Phoenix Wright: Ace Attorney Trilogy JPN
+*Pokémon Scarlet JPN
+*Princess Peach Showtime JPN [c]
 Rune Factory 3 Special
 Shin Megami Tensei V
-*Shin Megami Tensei V Vengeance
+Shin Megami Tensei V Vengeance
 Sonic Mania Plus
 Star Ocean The Second Story R
 Starlink Battle for Atlas
@@ -449,6 +452,7 @@ Tales of Vesperia Definitive Edition
 The Elder Scrolls V Skyrim Special Edition
 The Great Ace Attorney Chronicles JPN
 The Legend of Zelda: Breath of the Wild
+*The Legend of Zelda: Echoes of Wisdom JPN
 The Legend of Zelda: Link's Awakening JPN
 The Legend of Zelda: Tales of the Kingdom
 The Witcher 3 Wild Hunt Complete Edition
@@ -460,12 +464,15 @@ Xenoblade Chronicles 2
 Xenoblade Chronicles 3
 Yesterday Origins
 Yoshi's Crafted World
-71 Games
+74 Games
 
 
 SWITCH 2 GAMES
 Donkey Kong Bananza
 Mario Kart World
 No Sleep For Kaname Date - From AI: The Somnium Files JPN
+*Star Wars Outlaws JPN
 Yakuza 0 Director's Cut JPN
-4 Games
+*Yakuza Kiwami JPN
+*Yakuza Kiwami 2 JPN
+7 Games
