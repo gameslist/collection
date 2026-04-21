@@ -227,7 +227,7 @@ Tony Hawk's Skateboarding [c]
 Top Gear Hyper Bike [c]
 Top Gear Overdrive [c]
 Top Gear Rally [c]
-*Top Gear Rally 2 [c]
+Top Gear Rally 2 [c]
 Turok 2 Seeds of Evil [c]
 Turok 3 Shadow of Oblivion [c]
 Turok Dinosaur Hunter [c]
@@ -270,3 +270,11 @@ Resident Evil 2 [c]
 Star Wars Rogue Squadron [ci]
 6 Games
 
+
+JPN
+*Pikachu Genki Dechu [c]
+*Pocket Monsters Stadium [c]
+*Pocket Monsters Stadium Kin Gin Crystal Version [c]
+*Super Mario 64 Rumble Pak Version [c]
+*Wave Race 64 Rumble Pak Version [c]
+5 Games

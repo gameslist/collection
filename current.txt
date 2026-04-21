@@ -98,7 +98,7 @@ Steamworld Collection
 Street Fighter V
 Sudden Strike 4
 Super Stardust Ultra VR
-*Syberia The World Before
+Syberia The World Before
 Tales of Berseria
 Tales of Symphonia Remastered Chosen Edition
 Tales of Zestiria
@@ -404,6 +404,7 @@ Deadly Premonition 2
 Deadly Premonition Origins
 Detective Pikachu Returns
 Disney Illusion Island
+*Doraemon Dorayaki Shop Story JPN
 Doraemon Story of Seasons JPN
 Farming Simulator 20
 Fifa 19
@@ -433,8 +434,8 @@ Paper Mario: The Origami King
 Paper Mario: The Thousand-Year Door
 Persona 5 Tactica
 Phoenix Wright: Ace Attorney Trilogy JPN
-*Pokémon Scarlet JPN
-*Princess Peach Showtime JPN [c]
+Pokémon Scarlet JPN
+Princess Peach Showtime JPN [c]
 Rune Factory 3 Special
 Shin Megami Tensei V
 Shin Megami Tensei V Vengeance
@@ -451,8 +452,9 @@ Syberia Trilogy
 Tales of Vesperia Definitive Edition
 The Elder Scrolls V Skyrim Special Edition
 The Great Ace Attorney Chronicles JPN
+*The Hokkaido Serial Murder Case The Okhotsk Disappearance JPN
 The Legend of Zelda: Breath of the Wild
-*The Legend of Zelda: Echoes of Wisdom JPN
+The Legend of Zelda: Echoes of Wisdom JPN
 The Legend of Zelda: Link's Awakening JPN
 The Legend of Zelda: Tales of the Kingdom
 The Witcher 3 Wild Hunt Complete Edition
@@ -464,15 +466,18 @@ Xenoblade Chronicles 2
 Xenoblade Chronicles 3
 Yesterday Origins
 Yoshi's Crafted World
-74 Games
+76 Games
 
 
 SWITCH 2 GAMES
+*Cyberpunk 2077 JPN
 Donkey Kong Bananza
+*Final Fantasy VII Remake Intergrade JPN
 Mario Kart World
 No Sleep For Kaname Date - From AI: The Somnium Files JPN
-*Star Wars Outlaws JPN
+Star Wars Outlaws JPN
 Yakuza 0 Director's Cut JPN
-*Yakuza Kiwami JPN
-*Yakuza Kiwami 2 JPN
-7 Games
+Yakuza Kiwami JPN
+Yakuza Kiwami 2 JPN
+*Yakuza Kiwami 3 JPN
+10 Games
