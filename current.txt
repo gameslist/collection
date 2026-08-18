@@ -212,7 +212,7 @@ Divinity Original Sin Enhanced Edition
 Doom Eternal
 Dreamfall Chapters
 Dynasty Warriors 9
-*F1 24
+F1 24
 Fallout 4
 Far Cry 4
 Far Cry 5
@@ -236,6 +236,7 @@ Game of Thrones A Telltale Game Series
 Gears of War Ultimate Edition
 Gears of War 4
 Gears of War 5
+*Grand Theft Auto V
 GreedFall Gold Edition
 Grid Legends
 Hades
@@ -387,7 +388,7 @@ Yakuza Like A Dragon
 Yesterday Origins
 Yooka-Laylee
 Zoo Tycoon
-239 Games
+240 Games
 
 
 SWITCH GAMES
@@ -417,6 +418,7 @@ L.A. Noire
 Lego City Undercover
 Lego Harry Potter Collection
 Lego Horizon Adventures
+*Life is Strange Double Exposure
 Live A Live
 Luigi's Mansion 3
 Mario + Rabbids Kingdom Battle
@@ -467,21 +469,22 @@ Xenoblade Chronicles 2
 Xenoblade Chronicles 3
 Yesterday Origins
 Yoshi's Crafted World
-76 Games
+77 Games
 
 
 SWITCH 2 GAMES
+*Assassin's Creed Shadows
 Cyberpunk 2077 JPN
 Donkey Kong Bananza
 Final Fantasy VII Remake Intergrade JPN
 Mario Kart World
-*Mortal Kombat Legacy Collection
+Mortal Kombat Legacy Collection
 No Sleep For Kaname Date - From AI: The Somnium Files JPN
-*Raidou Remastered: The Mystery of the Soulless Army
+Raidou Remastered: The Mystery of the Soulless Army
 Star Wars Outlaws JPN
-*Street Fighter 6 Years 1-2 Fighters Edition
+Street Fighter 6 Years 1-2 Fighters Edition
 Yakuza 0 Director's Cut JPN
 Yakuza Kiwami JPN
 Yakuza Kiwami 2 JPN
 Yakuza Kiwami 3 JPN
-13 Games
+14 Games
