@@ -5,9 +5,10 @@ Chip 'n Dale Rescue Rangers [c]
 Kirby's Adventure [c]
 Maniac Mansion SWE [c]
 Mario & Yoshi [c]
+*Shadowgate SWE [c]
 Super Mario Bros./Tetris/Nintendo World Cup [c]
 Tiny Toon Adventures [c]
-6 Games
+7 Games
 
 
 USA
@@ -61,7 +62,7 @@ Lunar Ball [c]
 Mighty Bomb Jack [c]
 Moero! TwinBee: Cinnamon-hakase wo Sukue! [c]
 Rolling Thunder [c]
-*2xSuper Mario Bros. 3 [c]/[c]
+2xSuper Mario Bros. 3 [c]/[c]
 Yoshi no Cookie [cib]/[c]
 Yoshi no Tamago [c]
 Yume Kojo: Doki Doki Panic FDS
