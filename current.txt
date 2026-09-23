@@ -236,7 +236,7 @@ Game of Thrones A Telltale Game Series
 Gears of War Ultimate Edition
 Gears of War 4
 Gears of War 5
-*Grand Theft Auto V
+Grand Theft Auto V
 GreedFall Gold Edition
 Grid Legends
 Hades
@@ -258,7 +258,7 @@ Ken Follett's The Pillars of the Earth
 Killer Instinct
 Killer Instinct Definitive Edition
 Kingdom Come Deliverance Royal Edition
-*Klonoa Phantasy Reverie Series
+Klonoa Phantasy Reverie Series
 Lego Batman 3 Beyond Gotham
 Lego DC Super Villains
 Lego Jurassic World
@@ -349,7 +349,7 @@ Sword Art Online: Fatal Bullet
 Syberia 3
 System Shock
 Tales from the Borderlands
-*Tales of Graces f Remastered
+Tales of Graces f Remastered
 Tales of Vesperia: Definitive Edition
 Tekken 7
 The Elder Scrolls V Skyrim Special Edition
@@ -389,7 +389,7 @@ WRC5 Esports Edition
 Yakuza Like A Dragon
 Yesterday Origins
 Yooka-Laylee
-*Yooka-Laylee and the Impossible Lair
+Yooka-Laylee and the Impossible Lair
 Zoo Tycoon
 243 Games
 
@@ -421,7 +421,7 @@ L.A. Noire
 Lego City Undercover
 Lego Harry Potter Collection
 Lego Horizon Adventures
-*Life is Strange Double Exposure
+Life is Strange Double Exposure
 Live A Live
 Luigi's Mansion 3
 Mario + Rabbids Kingdom Battle
@@ -433,6 +433,7 @@ Master Detective Archives: Rain Code
 Metroid Dread
 Monster Energy Supercross 2 The Official Videogame
 Monster Hunter Rise
+*Moomintroll: Winter's Warmth
 Neo: The World Ends With You
 No More Heroes 3
 Octopath Traveler
@@ -472,11 +473,11 @@ Xenoblade Chronicles 2
 Xenoblade Chronicles 3
 Yesterday Origins
 Yoshi's Crafted World
-77 Games
+78 Games
 
 
 SWITCH 2 GAMES
-*Assassin's Creed Shadows
+Assassin's Creed Shadows
 Cyberpunk 2077 JPN
 Donkey Kong Bananza
 Final Fantasy VII Remake Intergrade JPN
